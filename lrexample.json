@@ -1,0 +1,41 @@
+{
+	"1": {
+    	"key": 1,
+    	"operation": "Insert"
+  	},
+  	"2": {
+    	"key": 3,
+    	"operation": "Insert"
+  	},
+  	"3": {
+    	"key": 2,
+    	"operation": "Insert"
+  	},
+  	"4": {
+    	"key": 5,
+    	"operation": "Insert"
+  	},
+  	"5": {
+    	"key": 4,
+    	"operation": "Insert"
+  	},
+  	"6": {
+    	"key": 6,
+    	"operation": "Insert"
+  	},
+  	"7": {
+    	"key": 7,
+    	"operation": "Insert"
+  	},
+  	"8": {
+    	"key": 9,
+    	"operation": "Insert"
+  	},
+  	"9": {
+    	"key": 8,
+    	"operation": "Insert"
+  	},
+  	"metadata": {
+    	"numOps": 9
+  	}
+}

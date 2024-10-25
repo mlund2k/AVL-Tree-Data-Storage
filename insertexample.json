@@ -1,0 +1,33 @@
+{
+	"01": {
+    	"key": 136,
+    	"operation": "Insert"
+  	},
+  	"02": {
+    	"key": 285,
+    	"operation": "Insert"
+  	},
+  	"03": {
+    	"key": 20,
+    	"operation": "Insert"
+  	},
+  	"04": {
+    	"key": 782,
+    	"operation": "Insert"
+  	},
+  	"05": {
+    	"key": 6,
+    	"operation": "Insert"
+  	},
+	"06": {
+    	"key": 69,
+    	"operation": "Insert"
+  	},
+  	"07": {
+    	"key": 702,
+    	"operation": "Insert"
+  	},
+  	"metadata": {
+    	"numOps": 10
+  	}
+}
